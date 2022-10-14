@@ -27,10 +27,10 @@
 
 
 ## 🔧 Experiência de trabalho de 1 ano e 5 messes : Analista de suporte e Desenvolvimento VB.NET e C# (JUNIOR).
-- Prestando apoios aos analistas referente ao projeto inteiro.
+- Prestando apoio aos analistas referente ao projeto interno.
 - Auxiliar de desenvolvimento.
 - Melhorias e correções do projeto.
-- Reunião referente a boas pratica.
+- Reuniões referente a boas práticas.
 - Trabalho em grupo.
 - Comunicação em geral.
 - Atendimento aos clientes via Anydesk.
