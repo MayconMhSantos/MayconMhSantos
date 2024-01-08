@@ -36,7 +36,7 @@
 - Trabalho em grupo.
 - Comunicação em geral.
 - Atendimento aos clientes via Anydesk.
-- Integração via WebService (vb.NET).
+- Integração WebService REST(.NET).
 - Ajuste de integrações.
 - SQL
 
